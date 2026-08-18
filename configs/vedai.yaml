@@ -1,0 +1,22 @@
+# VEDAI visible-light dataset
+# Converted from VEDAI 1024 annotations
+# RGB/color (_co.png) images only
+
+path: C:/tiny_object_detection_paper/YOLOv8n-SA-RFE/datasets/VEDAI-yolo
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 9
+
+names:
+  0: car
+  1: truck
+  2: tractor
+  3: camping-car
+  4: van
+  5: other
+  6: pickup
+  7: boat
+  8: plane

@@ -1,0 +1,14 @@
+# UAVDT dataset in YOLO format
+
+path: C:/Users/MansoorIqbal/OneDrive - Eratosthenes Center Of Excellence/Desktop/General Files/UAVDT/UAVDT
+
+train: train/images
+val: val/images
+test: test/images
+
+nc: 3
+
+names:
+  0: car
+  1: truck
+  2: bus
