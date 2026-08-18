@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata below."
+title: "RIF-YOLO-N: Lightweight P3 Residual Identity Fusion with Resolution-Guided Fine-Tuning for Tiny-Object Detection"
+type: software
+authors:
+  - family-names: "Iqbal"
+    given-names: "Mnsoor"
+repository-code: "https://github.com/iqbalmansoor1986-hue/RIF-YOLO-N-Tiny-Object-Detection"
+url: "https://github.com/iqbalmansoor1986-hue/RIF-YOLO-N-Tiny-Object-Detection"
